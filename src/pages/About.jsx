@@ -1,6 +1,6 @@
 import { useContext } from "react"
 import AboutText from "../components/AboutText/AboutText"
-import Banner from "../components/Banner/banner"
+import Banner from "../components/Banner/Banner"
 import Header from "../components/Header/Header"
 import Footer from "../components/Footer/Footer"
 
