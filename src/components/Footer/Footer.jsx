@@ -7,7 +7,7 @@ import BrasilIcon from '../../assets/brasil-icon.svg'
 import UsaIcon from '../../assets/usa-icon.svg'
 import FacebookIcon from '../../assets/facebook-icon.svg'
 import LinkedinIcon from '../../assets/linkedin-icon.svg'
-import InstagramIcon from '../../assets/instagram-icon.svg'
+import InstagramIcon from '../../assets/Instagram-icon.svg'
 import TwitterIcon from '../../assets/twitter-icon.svg'
 import Logo from '../../assets/dnc-logo.svg'
 
